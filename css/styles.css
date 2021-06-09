@@ -355,6 +355,10 @@ a {
   letter-spacing: 1px;
 }
 
+.plan--popular .card {
+  overflow: visible;
+}
+
 .plan--popular .card__header {
   position: relative;
 }
